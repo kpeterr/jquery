@@ -1,1 +1,2 @@
 # jquery
+A jQuery tanulása
